@@ -46,10 +46,6 @@ Ensure you have the following installed:
 ### 🔧 Installation
 
 #### 1. Clone the Repository
-```bash
-git clone https://github.com/your-repo-name.git
-cd your-repo-name
-```
 
 #### 2. Install Dependencies
 ##### Frontend
