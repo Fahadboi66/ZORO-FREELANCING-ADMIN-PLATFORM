@@ -1,5 +1,5 @@
 
-# Full Stack Application
+# ZORO-FREELANCING-PLATFORM-ADMIN-PANEL
 
 A full-stack web application built with **React** (frontend) and **Node.js/Express** with **MongoDB** (backend).
 
